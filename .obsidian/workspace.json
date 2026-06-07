@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Процессы и многопоточность.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Процессы и многопоточность"
+              "title": "README"
             }
           }
         ],
@@ -201,7 +201,8 @@
   },
   "active": "06f7822e414f798f",
   "lastOpenFiles": [
+    "2 - Процессы и многопоточность.md",
     "1 - Основы ОС.md",
-    "2 - Процессы и многопоточность.md"
+    "README.md"
   ]
 }
